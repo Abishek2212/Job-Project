@@ -1,0 +1,11 @@
+Testing:
+
+1.Smoke Testing - main Functional working or not
+2.crossbrowser testing - working different browser or not
+3.Regression Testing - check it will not affact privious release functionality.
+4.negative Testing - think out of the box. we will give falls information we will check it will accept or not.
+5.traceability matrix - road map between test case and requirement. we 5 requirement. 
+			now 3 requirement is change means we can easily track and 
+			change the test case based on the requirement.
+6.Functional Testing - test full code.
+
